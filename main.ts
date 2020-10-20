@@ -1,1 +1,3 @@
-basic.showString("Hello!")
+while(true) {
+basic.showString("Yessir")
+}
